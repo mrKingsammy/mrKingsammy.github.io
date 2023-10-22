@@ -25,16 +25,14 @@ main{
     margin-top: 26px;
     margin-bottom:  36px;
     -webkit-text-stroke: 1px;
-    -webkit-text-stroke-color:rgb(73, 28, 117);
+    -webkit-text-stroke-color:rgb(0, 0, 0);
     
 }
 
 footer{
     background-color: #91c11d;
     padding: 50px;
-    
-    
-
+    color: blue;
     
 }
 
