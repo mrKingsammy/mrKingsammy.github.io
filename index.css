@@ -1,3 +1,35 @@
-body{
-    background-color: rgb(255, 255, 255);
+*{
+    box sizing: border-box;
 }
+
+
+header{
+    position:sticky;
+    text-align: center;
+}
+body{
+ background-color: rgb(1, 17, 13);
+ color:white;
+ font-family: sans-serif;
+}
+
+main{
+    background-color:rgb(22,209,207);
+    padding: 100px;
+    color:black;
+    margin-top: 26px;
+    margin-bottom:  36px;
+    margin
+    
+}
+
+footer{
+    background-color:rgb(230,222,5) ;
+    padding: 50px;
+    height: ;
+    justify-content: center;
+    width: ;
+    
+}
+
+
